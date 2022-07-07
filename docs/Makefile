@@ -5,7 +5,7 @@
 # from the environment for the first two.
 SPHINXOPTS    = -W
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = cocovo-developer
+SPHINXPROJ    = sphinx-boilerplate
 SOURCEDIR     = .
 BUILDDIR      = _build
 
