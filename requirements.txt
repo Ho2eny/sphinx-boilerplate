@@ -1,0 +1,6 @@
+Sphinx<4.2.0
+
+sphinx-autobuild
+
+# Theme
+sphinx-rtd-theme<=2.0.0
