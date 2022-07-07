@@ -5,6 +5,8 @@ Boilerplate that deploys reStructuredText docs to Github Page
 
 **Install Sphinx and Theme**
 
+In the `docs/` folder
+
 ```shell
 pip install -r requirements.txt
 ```

@@ -13,7 +13,7 @@ Build the docs
 
 **Install Sphinx and Theme**
 
-::
+In the ``docs/`` folder ::
 
   pip install -r requirements.txt
 
